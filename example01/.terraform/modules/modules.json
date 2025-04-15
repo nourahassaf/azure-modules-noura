@@ -1,1 +1,0 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"resource_group","Source":"../azurerm_resource_group","Dir":"../azurerm_resource_group"},{"Key":"subnets","Source":"../azurerm_subnets","Dir":"../azurerm_subnets"},{"Key":"vnet","Source":"../azurerm_virtual_network","Dir":"../azurerm_virtual_network"}]}
